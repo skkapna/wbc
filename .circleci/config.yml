@@ -14,7 +14,9 @@ jobs:
     # See: https://circleci.com/docs/configuration-reference/#steps
     steps:
       - checkout
-      
+      - run:
+          name: "install"
+          command: "bundle install"
       - run:
           name: "jekyll"
           command: "bundle exec jekyll build"
