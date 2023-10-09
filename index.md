@@ -5,7 +5,7 @@
 ## [Pumpkin Spiced Lattes are back!](pumpkin-lattes-back.md)
 <img src="images/Pumpkin-latte.jpg?raw=true"/>
 
-<p style="font-size:14px">Starting today, you don't have to wait for the autumn or fall months ...</p>
+<p style="font-size:14px">Starting tomorrow, you don't have to wait for the autumn or fall months ...</p>
 
 <p align="center">
   <img src="images/bean.png" width="25" align="center"/><img src="images/company-logo.png" width="50" align="center"/><img src="images/bean.png" width="25" align="center"/>
