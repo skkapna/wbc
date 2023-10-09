@@ -16,7 +16,7 @@ jobs:
       - checkout
       - run:
           name: " build dependencies"
-          command: " bundle install"
+          command: " bundler install"
       - run:
           name: "jekyll"
           command: "bundle exec jekyll build"
